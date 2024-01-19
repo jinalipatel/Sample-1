@@ -1,0 +1,44 @@
+<HTML>
+    <HEAD>
+    <BODY>
+    <H1> TIME TABLE </H1>
+     <B>SEMESTER=5DB <BR> CLASS=D-502 <BR> YEAR=2023-24 </B> <BR> 
+    <br><TABLE BORDER ="1">
+    <TR>
+    <TH> FRIDAY    </TH>
+    <TH> SATURDAY  </TH>
+    </TR>
+    <TR>
+    <TD> 10:20 - 11:10 </TD>
+    <TD> Boys-Cricket  </TD>
+    
+    </TR>
+    <TR>
+    <TD> 11:10 - 12:00 </TD>
+    <TD> Girls-Cricket </TD>
+    </TR>
+    <TR>
+    <TD> 12:00 - 12:20 </TD>
+    <TD TEXT-ALIGN = "CENTER" COLSPAN ="6"> <B><CENTER>RECESS </CENTER></TD></B>
+    </TR>
+    <TR>
+    <TD> 12:20 - 1:10 </TD>
+    <TD> Boys-Badminton </TD>
+    </TR>
+    <TR>
+    <TD> 1:10 - 2:00 </TD>
+    <TD> Girls-Badminton </TD>
+    </TR>
+    <TR>
+    <TD> 2:00 - 2:10 </TD>
+    <TD TEXT-ALIGN = "CENTER" COLSPAN ="6"><B> <CENTER>RECESS </CENTER></TD></B>
+    </TR>
+    <TR>
+        <BR>
+        <b> SEMI-FINALS</b>
+    <TD> 2:10 -5:00 </TD>
+    <TD> BATCH-1 ASOIT(GIRLS)  <BR> BATCH-2 ASOIT(BOYS)  </TD>
+    <TD>  BATCH-1 SOCET(GIRLS)  <BR> BATCH-2 SOCET(BOYS) </TD> 
+    <TR>
+    </BRODER>
+    <B>BY:-MAHI PATEL
