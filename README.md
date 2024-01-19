@@ -67,8 +67,5 @@
 <TD> BATCH-1 = LIBRARY <BR> BATCH-2 = LIBRARY <BR> BATCH-3 = LIBRARY </TD>
 <TR>
 </BRODER>
-<<<<<<< HEAD
-<B>BY:-patel Jinali
-=======
-<B>BY:-Patel Mahi
->>>>>>> 22d147c7f9602f7dab51fb1454b098ea7629d60d
+
+<B>BY:-Patel Jinali
